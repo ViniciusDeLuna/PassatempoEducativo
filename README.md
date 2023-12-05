@@ -1,1 +1,2 @@
 # PassatempoEducativo
+O projeto tem como objetivo a reformulação do site da ONG "Passatempo Educativo" tem como objetivo aprimorar a presença online da organização e contribuir para um aumento de doações, oferecendo uma experiência mais envolvente, informativa e interativa para os visitantes. Atualmente, o site da ONG carece de modernidade e facilidade de uso, tornando necessário um redesign abrangente para refletir sua missão e valores de forma mais eficaz.
